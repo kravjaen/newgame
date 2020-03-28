@@ -1,2 +1,0 @@
-# newgame
-New Game 
